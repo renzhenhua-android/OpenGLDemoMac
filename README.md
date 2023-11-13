@@ -23,5 +23,5 @@ make
 
 运行结果
 
-<img src="screenShots/test.png" width="320"/>
+<img src="screenShots/test.png" width="1080"/>
 
