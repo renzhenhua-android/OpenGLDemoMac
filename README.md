@@ -15,12 +15,10 @@ export PATH=$PATH:$ANDROID_HOME/cmake/3.22.1/bin
 source ~/.zshrc 
 
 # 编译运行命令：
-cmake .
+```bash
+sh run_mac.sh
 
-make
-
-./test
-
+```
 运行结果
 
 <img src="screenShots/test.png" width="1080"/>
