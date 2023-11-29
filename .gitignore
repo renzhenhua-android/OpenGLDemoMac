@@ -49,11 +49,6 @@ buck-out/
 dist
 
 # Bundle artifact
-*.jsbundle
-.tmp/
-src/dist
-lib
-
 */ios/Pods
 
 CMakeFiles
@@ -61,3 +56,4 @@ cmake_install.cmake
 CMakeCache.txt
 Makefile
 .vscode
+.vs

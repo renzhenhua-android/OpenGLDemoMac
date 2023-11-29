@@ -1,0 +1,10 @@
+# OSX
+#
+.DS_Store
+.vs
+# VSCode
+.vscode/
+jsconfig.json
+/Debug
+/x64
+enc_temp_folder
